@@ -22,7 +22,7 @@ mkl-service==2.3.0
 numpy==1.18.1
 olefile==0.46
 pandas==0.25.0
-Pillow==7.0.0
+Pillow==9.0.0
 prettytable==0.7.2
 pycparser==2.20
 pyOpenSSL==19.1.0
